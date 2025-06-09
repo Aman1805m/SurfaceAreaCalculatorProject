@@ -50,3 +50,8 @@ A Java application that calculates the surface area of various geometric shapes 
 ## Requirements
 
 - Java 8 or higher
+More Details 
+The Shape Area Calculator is a Java-based desktop application designed to compute the area of common geometric shapes such as circles, rectangles, squares, and triangles. Built using Java's Swing library, this application demonstrates core concepts of object-oriented programming, event-driven programming, and modular software design. The project focuses on clean code architecture, robust error handling, data validation, and component integration to provide an accurate and user-friendly experience.
+
+At the heart of the application lies a clearly defined set of classes, each representing a shape. These classes encapsulate the logic for area calculation, following the principles of abstraction and encapsulation. 
+The project directory is organized for clarity and ease of navigation. Shape classes are placed in a shapes package, utility methods for input validation reside in a utils package, and all GUI-related code is maintained in a gui package.
